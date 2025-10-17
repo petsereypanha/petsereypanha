@@ -55,19 +55,9 @@ I am a passionate M.Tech CS student at Royal University of Phnom Penh, driven by
 
 <br/>
 
-## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=petsereypanha&show_icons=true&count_private=true&hide_border=true" align="petsereypanha" style="width: 100%" />
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petsereypanha&hide_border=true&layout=compact" align="petsereypanha" style="width: 100%" />
-
-</td>
-</tr>
-<td valign="top" width="%"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petsereypanha" alt="petsereypanha" /></p></td>
-</table>  
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=petsereypanha&show_icons=true&count_private=true&hide_border=true" align="petsereypanha" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petsereypanha&hide_border=true&layout=compact" align="petsereypanha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petsereypanha" alt="petsereypanha"  /></p>
 <br/>  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username= petsereypanha&label=Profile%20views&color=0e75b6&style=flat" alt="petsereypanha" /> </p>
