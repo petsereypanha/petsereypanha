@@ -5,7 +5,7 @@ I am a passionate M.Tech CS student at Royal University of Phnom Penh, driven by
 
 <br/>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petsereypanha" alt="mengsreang-chhoeung" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petsereypanha" alt="SereyPanha" /></a> </p>
 
 <table><tr><td valign="top" width="50%">
 
